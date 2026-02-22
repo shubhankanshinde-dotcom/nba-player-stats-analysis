@@ -43,14 +43,14 @@ The dataset contains 5459 rows and 26 columns, covering player stats across mult
 
 ## Visual Insights
 
-**Assists vs Points**
+### Assists vs Points
 ![Assists vs Points](images/assists_vs_points.png)
 
-**Minutes vs Points**
+### Minutes vs Points
 ![Minutes vs Points](images/minutes_vs_points.png)
 
-**Points Comparison**
+### Points Comparison
 ![Points Comparison](images/points_comparison.png)
 
-**PPG by Position**
+### PPG by Position
 ![PPG by Position](images/ppg_by_position.png)
